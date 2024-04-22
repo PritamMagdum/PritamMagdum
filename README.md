@@ -30,3 +30,11 @@
 <a href="https://twitter.com/pritam1622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Pritam Magdum" height="30" width="40" /></a>
 </p>
 <br>
+<h3 align="left">Languages and Tools:</h3>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,java,python" />
+  </a>
+</p>
