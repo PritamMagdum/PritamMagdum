@@ -38,3 +38,10 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express,java,python" />
   </a>
 </p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,ts,angular,django,vue,redux,tailwind,materialui,bootstrap" />
+  </a>
+</p>
