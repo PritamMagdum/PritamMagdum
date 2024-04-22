@@ -59,3 +59,11 @@
     <img src="https://skillicons.dev/icons?i=aws,azure,firebase" />
   </a>
 </p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,eclipse,photoshop,redux,gitlab,docker,figma,linux,idea" />
+  </a>
+</p>
+
