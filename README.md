@@ -45,3 +45,10 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,next,ts,angular,django,vue,redux,tailwind,materialui,bootstrap" />
   </a>
 </p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</p>
