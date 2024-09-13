@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Pritam Magdum</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<p align="center">As a passionate software developer, I bring a wealth of experience and a relentless drive for mastery to the table. With a strategic mindset focused on driving organizational growth, I thrive in collaborative environments, leveraging my technical prowess and leadership skills to propel projects forward. My commitment to innovation and adaptability positions me as a valuable asset, poised to exceed expectations and contribute significantly to your organization's success. Let's embark on a journey of innovation and transformation together.</p>
+<p align="center">Driven by a passion for software development and problem-solving, I excel at creating innovative solutions and collaborating with teams to deliver impactful results. With a focus on continuous learning and growth, I'm ready to tackle challenges and contribute meaningfully to your organization's success.</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=pritammagdum&label=Profile%20views&color=0e75b6&style=flat" alt="Pritam Magdum" />
 </p>
@@ -29,6 +29,7 @@
 <a href="https://www.instagram.com/pritam_magdum_72_12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Pritam Magdum" height="30" width="40" /></a>
 <a href="https://twitter.com/pritam1622" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Pritam Magdum" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/pritammagdum24" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Pritam Magdum" height="30" width="40" /></a>
+ <a href="https://leetcode.com/u/Pritam_Magdum_1622" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Pritam Magdum" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
